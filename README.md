@@ -1,0 +1,2 @@
+# Improving-Employee-Retention-by-Predicting-Employee-Attrition-Using-Machine-Learning
+Sumber daya manusia (SDM) adalah aset penting yang harus dikelola dengan baik untuk mencapai tujuan bisnis. Fokus utama adalah menjaga karyawan agar tetap bertahan, guna menghindari biaya rekrutmen dan pelatihan yang tinggi. Dengan memahami penyebab ketidakpuasan, perusahaan dapat membuat program yang relevan untuk mengatasi masalah ini.
